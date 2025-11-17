@@ -1,4 +1,4 @@
--- Base64 Encoding/Decoding Library • gamesense
+-- Lunaris Base64 Encoding/Decoding Library • gamesense
 
 -- Telegram / https://t.me/Lunaris_lua
 -- WebSite  / https://lunaris.tlfis.ru
