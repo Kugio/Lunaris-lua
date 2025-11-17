@@ -1,4 +1,4 @@
--- HTTP Library • gamesense
+-- Lunaris HTTP Library • gamesense
 
 -- Telegram / https://t.me/Lunaris_lua
 -- WebSite  / https://lunaris.tlfis.ru
