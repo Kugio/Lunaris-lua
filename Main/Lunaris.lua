@@ -1,7 +1,7 @@
 -- Lunaris • gamesense
 -- Telegram / https://t.me/Lunaris_lua
 -- WebSite  / https://lunaris.tlfis.ru
--- GitHub   / 
+-- GitHub   / https://github.com/Kugio/Lunaris-lua
 --[[
 
 # LICENSE :: MIT
